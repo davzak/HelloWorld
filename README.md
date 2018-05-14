@@ -1,4 +1,4 @@
 # HelloWorld
-My test repository Jedna
+My test repository JednaDve
 New line
-New line 1
+New line 12
